@@ -4,7 +4,7 @@
 
 1. Run the program with ``python main.py``
 
-2. Enter your [steam API key](6https://steamcommunity.com/dev/apikey)
+2. Enter your [steam API key](https://steamcommunity.com/dev/apikey)
 
 3. Enter the steam profile IDs
 
