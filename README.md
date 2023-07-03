@@ -8,7 +8,7 @@
 
 3. Enter the steam profile IDs
 
-    **How to your steam ID** 
+    **How to enter your steam ID** 
 
     1. Click your name dropdown menu (found next to the notifications icon)
     2. Click Account details
