@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Run the program with ``python main``
+1. Run the program with ``python main.py``
 
 2. Enter your [steam API key](6https://steamcommunity.com/dev/apikey)
 
